@@ -1,0 +1,17 @@
+{
+  "name": "CLIsearch",
+  "version": "1.0.0",
+  "description": "print list of related URL to a word",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JavaScript Playground",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+    "CLIsearch": "index.js"
+  },
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
